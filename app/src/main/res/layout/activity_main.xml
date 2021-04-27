@@ -26,7 +26,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/iv1"
-        app:srcCompat="@drawable/dado1" />
+        app:srcCompat="@drawable/dices" />
 
     <Button
         android:id="@+id/button"

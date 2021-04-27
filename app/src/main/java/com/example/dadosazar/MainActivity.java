@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         int valorDos=1+(int)(Math.random()*6);
 
         if(rb1.isChecked()){
-            iv2.setImageResource(R.drawable.dado1);
+            iv2.setImageResource(R.drawable.dices);
             switch (valorUno) {
                 case 1:
                     iv1.setImageResource(R.drawable.dado1);
